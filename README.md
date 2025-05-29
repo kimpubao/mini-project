@@ -34,7 +34,7 @@
 ## ⚙️ 사용한 주요 기술 및 설계 요소
 
 - **프로그래밍 언어**: Python 3.12
-- **실행 환경**: VSCode + macOS (또는 Jupyter Notebook)
+- **실행 환경**: VSCode + macOS
 - **핵심 사용 문법**
   - `list`를 활용한 카드 덱 구성
   - `random.shuffle()`을 이용한 카드 셔플
